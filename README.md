@@ -1,5 +1,5 @@
-<h1 align="left">Coucou, tu dors?</h1>
-<h1 align="left">I'm Hary</h2>
+<h2 align="left">Coucou, tu dors?</h2>
+<h2 align="left">I'm Hary</h2>
 <h3 align="left">Just hanging around in code</h3>
 
 <h3 align="left">Connect with me:</h3>
