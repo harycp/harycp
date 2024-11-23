@@ -8,4 +8,4 @@
 </div>
 
 ### My Codeium Profile
-[Visit My Codeium Profile](https://codeium.com/profile/depressingly-capable-grunt-15584)
+[Visit My Codeium Profile](https://codeium.com/profile/haryc)
