@@ -1,8 +1,6 @@
-<h1 align="left">Coucou, tu dors? I'm Hary</h1>
+<h1 align="left">Coucou, tu dors?</h1>
 <h1 align="left">I'm Hary</h2>
 <h3 align="left">Just hanging around in code</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harycp&label=Profile%20views&color=0e75b6&style=flat" alt="harycp" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
