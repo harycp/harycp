@@ -8,6 +8,6 @@
 <a href="https://instagram.com/haryc._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haryc._" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact" alt="harycp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark" alt="harycp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harycp&theme=dark" alt="harycp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harycp&" alt="harycp" /></p>
