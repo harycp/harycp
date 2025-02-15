@@ -4,5 +4,5 @@
 
 <div display="flex">
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark" alt="harycp" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harycp&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://streak-stats.demolab.com?user=harycp&theme=dark"><img src="https://streak-stats.demolab.com?user=harycp&theme=dark" alt="GitHub Streak" /></a>
 </div>
