@@ -22,11 +22,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=harycp&theme=dark">
