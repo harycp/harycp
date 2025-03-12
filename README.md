@@ -8,15 +8,11 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,nodejs,postgresql,mysql,python,java,docker,git" alt="Tech Stack" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark">
@@ -32,7 +28,6 @@
 
 ---
 
-### 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/harycp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/hary-capri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
