@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </p>
 
-<h1 style="font-family: 'Press Start 2P', cursive; center;">Software Engineer Enthusiast</h1>
-<h2 style="font-family: 'Press Start 2P', cursive; center;">Hary C</h2>
-<h3 style="font-family: 'Press Start 2P', cursive; center;">Coucou, tu dors?</h3>
+<h1 align="center" style="font-family: 'Press Start 2P', cursive;">Software Engineer Enthusiast</h1>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary C</h2>
+<h3 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors?</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
