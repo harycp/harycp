@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,nodejs,postgresql,mysql,python,java,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,nodejs,postgresql,mysql,mongodb,python,java,php,javascript,docker,git" alt="Tech Stack" />
 </p>
 
 <p align="center">
