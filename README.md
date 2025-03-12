@@ -6,13 +6,17 @@
 <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary C</h2>
 <h3 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors?</h3>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,nodejs,postgresql,mysql,python,java,docker,git" alt="Tech Stack" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harycp&show_icons=true&locale=en&layout=compact&theme=dark">
@@ -26,7 +30,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/harycp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
