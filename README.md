@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">HARRY CAPRI</h1>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h2 style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors?</h2> 
-  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif" width="100"/>
-</div>
-
-
+<table align="center">
+  <tr>
+    <td><h2 style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors?</h2></td>
+    <td><img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif" width="100"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
