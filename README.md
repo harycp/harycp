@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/harycp/harycp/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,nodejs,postgresql,mysql,mongodb,python,java,php,javascript,docker,git" alt="Tech Stack" />
 </p>
 
