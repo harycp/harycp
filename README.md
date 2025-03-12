@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </p>
 
-<h1 align="center">Software Engineer Enthusiast</h1>
-<h2 align="center">Hary</h2>
-<h3 align="center">Coucou, tu dors? 👀</h3>
+<h1 align="center" style="font-family: 'Press Start 2P', cursive;">Software Engineer Enthusiast</h1>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary</h2>
+<h3 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? 👀</h3>
 
 ---
 
