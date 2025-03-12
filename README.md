@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/Animated%20Pixel%20Art%20Creations%20by%20Kirokaze%20_%20Inspiration%20Grid.gif" width="100%"/>
 </p>
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">HARRY CAPRI</h1>
 
-<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/68747470733a2f2f692e696d6775722e636f6d2f6b4355456b586e2e676966.gif" width="60"/> </h2>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/giff%20spiderman.gif" width="60"/> </h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
