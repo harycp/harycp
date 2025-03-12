@@ -5,8 +5,7 @@
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">HARRY CAPRI</h1>
 <div align="center">
   <h2  style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors?</h2> 
-  <img src="https://private-user-images.githubusercontent.com/74038190/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3OTIxOTYsIm5iZiI6MTc0MTc5MTg5NiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDYtOTRjYzQ0MjQtOTI1MS00MmFlLTg3ODItOTI0NjVkMGEwMDQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDE1MDQ1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZlYTRmNWVmNGY2YTk3NjUwNWVlMGJiOThiNzFjNGNhNDZmOTVhZTRjMzVjMzg4NDY2YTI3ZTJiOGE2ZjFiMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wFl5yICh2yA6yD_mHLArRCP_XoQ3cvMnBNlefTOB1NE
-"/>
+  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif"/>
 </div>
 
 
