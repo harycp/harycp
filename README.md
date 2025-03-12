@@ -4,7 +4,7 @@
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">HARRY CAPRI</h1>
 
-<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/68747470733a2f2f692e696d6775722e636f6d2f6b4355456b586e2e676966.gif" width="50"/> </h2>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/68747470733a2f2f692e696d6775722e636f6d2f6b4355456b586e2e676966.gif" width="60"/> </h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
