@@ -6,10 +6,6 @@
 <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary</h2>
 <h3 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? 👀</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/octocat-1741763291371.png" width="150"/>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -42,4 +38,8 @@
   <a href="https://www.linkedin.com/in/hary-capri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/haryc._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.haryc.me/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/octocat-1741763291371.png" width="250"/>
 </p>
