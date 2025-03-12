@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,laravel,postgresql,mysql,python,java,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,express,node,postgresql,mysql,python,java,docker,git" alt="Tech Stack" />
 </p>
 
 ---
@@ -35,5 +35,10 @@
 
 ### 🔗 Connect with Me
 <p align="center">
+  <p align="center">
   <a href="https://github.com/harycp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/hary-capri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/haryc._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.haryc.me/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+</p>
 </p>
