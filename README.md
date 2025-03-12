@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">Software Engineer Enthusiast</h1>
-<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary</h2>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">Hary C</h2>
 <h3 align="center" style="font-family: 'Press Start 2P', cursive;">Coucou, tu dors? 👀</h3>
 
 ---
