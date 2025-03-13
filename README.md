@@ -23,9 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=harycp&theme=dark">
-    <img src="https://streak-stats.demolab.com?user=harycp&theme=dark" alt="GitHub Streak"/>
-  </a>
+    <img src="https://nirzak-streak-stats.vercel.app?user=harycp&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
