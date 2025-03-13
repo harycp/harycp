@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/Animated%20Pixel%20Art%20Creations%20by%20Kirokaze%20_%20Inspiration%20Grid.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/pixel%20art.webp" width="100%"/>
 </p>
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive;">HARRY CAPRI</h1>
