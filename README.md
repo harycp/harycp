@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,pinia,express,nodejs,postgresql,mysql,mongodb,sqlite,python,java,php,javascript,docker,redis,git,obsidian" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,pinia,npm,express,nodejs,postgresql,mysql,mongodb,sqlite,python,java,php,javascript,docker,redis,git,github,gitlab,postman,obsidian,notion" alt="Tech Stack" />
 </p>
 
 <p align="center">
