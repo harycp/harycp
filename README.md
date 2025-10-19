@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harycp/harycp/647c8cb77b38600ea1f90fe418bedb7bcdc72aa5/github-user-contribution.svg" />
+  <img src="https://raw.githubusercontent.com/harycp/harycp/681a97648f8653f86b98d7547333885de8434dae/github-user-contribution-19102025.svg" />
 </p>
 
 <p align="center">
