@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/pixel%20art.webp" width="100%"/>
 </p>
 
-<h1 align="center" style="font-family: 'Press Start 2P', cursive;">SOFTWARE ENGINEER ENTHUSIAST </h1>
+<h1 align="center" style="font-family: 'Press Start 2P', cursive;">SOFTWARE ENGINEER</h1>
 <h2 align="center" style="font-family: 'Press Start 2P', cursive;">HARY CAPRI</h2>
 
 <h2 align="center" style="font-family: 'Press Start 2P', cursive;"><img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/giff%20spiderman.gif" width="100"/> <img src="https://raw.githubusercontent.com/harycp/harycp/refs/heads/main/68747470733a2f2f692e696d6775722e636f6d2f6b4355456b586e2e676966.gif" width="100"/></h2>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,springboot,quarkus,pinia,npm,express,nodejs,postgresql,mysql,mongodb,sqlite,python,java,php,javascript,golang,rabbitmq,kafka,docker,redis,git,github,gitlab,postman,obsidian,notion" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue,react,laravel,flask,spring,pinia,npm,express,nodejs,postgresql,mysql,mongodb,sqlite,python,java,php,javascript,golang,rabbitmq,kafka,docker,redis,jenkins,git,github,gitlab,postman" alt="Tech Stack" />
 </p>
 
 <p align="center">
