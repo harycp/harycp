@@ -113,6 +113,14 @@
 
 <!-- ════════════════════════ GITHUB METRICS ═════════════════════════════ -->
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+%F0%9F%93%8A+GITHUB+METRICS+%F0%9F%93%8A+%E2%94%82" alt="GitHub Metrics"/>
+
+</div>
+
+<br/>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harycp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;
