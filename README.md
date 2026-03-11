@@ -122,8 +122,6 @@
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harycp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harycp&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
